@@ -1,11 +1,11 @@
 :root {
   /* colours */
-  --background-color: white;
-  --text-color: black;
-  --header-color: black;
+  --background-color: rgb(2, 0, 0);
+  --text-color: rgb(75, 177, 54);
+  --header-color: rgb(43, 129, 168);
 
   /* typography */
-  --font: serif;
+  --font: calibri;
 }
 
 body {
